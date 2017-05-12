@@ -1,4 +1,4 @@
 # Android developers blog CN cover 官方博客中文版
 
-test
+offical site: https://android-developers.googleblog.com
 
