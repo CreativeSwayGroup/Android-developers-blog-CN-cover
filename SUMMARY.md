@@ -3,7 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [5月]()    
-        * [Android Things开发者预览版4(5月16日)](chapters/2017.5.16.things)
+        * [Android Things开发者预览版4(5月16日)](chapters/2017.5.16.things.md)
         * [Treble到来：一个Android的基础模块(5月12日)](chapters/2017.5.12.treble.md)
         * [使用Google Play开发者Api更好的追踪你的订阅(5月12日)](chapters/2017.5.12.googleplay.md)
         * [学习高级Android课程做一个你自己的app合集，提高你的开发技能(5月8日)](chapters/2017.5.8.advanced.md)
