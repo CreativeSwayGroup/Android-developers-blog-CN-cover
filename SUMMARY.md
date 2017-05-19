@@ -3,7 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [5月]()    
-        * [Android Wear:全新并发工具和更友好UI库(5月18日)(undone)](chapters/2017.5.18.wear.md)
+        * [Android Wear:全新并发工具和更友好UI库(5月18日)](chapters/2017.5.18.wear.md)
         * [Google 支付的下一步和忠诚度体验(5月18日)](chapters/2017.5.18.pay.md)
         * [Android和Architecture(架构)(5月17日)](chapters/2017.5.17.architecture.md)
         * [Google I/O 2017：赋予开发者创造跨平台的最好体验(5月17日)](chapters/2017.5.17.platforms.md)
