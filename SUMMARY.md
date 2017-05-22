@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [5月]()    
+        * [在Google Play上使用应用内购赚更多钱(5月19日)](chapters/2017.5.19.md)
         * [Android Wear:全新并发工具和更友好UI库(5月18日)](chapters/2017.5.18.wear.md)
         * [Google 支付的下一步和忠诚度体验(5月18日)](chapters/2017.5.18.pay.md)
         * [Android和Architecture(架构)(5月17日)](chapters/2017.5.17.architecture.md)
