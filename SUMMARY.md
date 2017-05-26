@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2017年]()
     * [5月]()    
+        * [欢迎来到你的新家Android TV(5月25日)](chapters/2017.5.25.md)
+        * [在Google Play控制台申请软件翻译发展新用户(5月24日)](chapters/2017.5.24.md)
         * [Android Auto的群消息(5月23日)](chapters/2017.5.23.md)
         * [在Google Play上使用应用内购赚更多钱(5月19日)](chapters/2017.5.19.md)
         * [Android Wear:全新并发工具和更友好UI库(5月18日)](chapters/2017.5.18.wear.md)
