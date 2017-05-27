@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [5月]()    
+        * [认识5个Android开发商，致力于改善世界各地的生活(5月26日)](chapters/2017.5.26.md)
         * [欢迎来到你的新家Android TV(5月25日)](chapters/2017.5.25.md)
         * [在Google Play控制台申请软件翻译发展新用户(5月24日)](chapters/2017.5.24.md)
         * [Android Auto的群消息(5月23日)](chapters/2017.5.23.md)
