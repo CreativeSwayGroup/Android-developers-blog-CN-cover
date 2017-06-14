@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2017年]()
     * [6月]()  
+        * [使用新的Google Play订单Library赚钱更加容易(6月12日)](chapters/2017.6.12.md)
+        * [Android O API最终版发布，你的app准备好了吗(6月8日)](chapters/2017.6.8.md)
         * [关于Google Play的激励评级，评论和安装政策(6月5日)](chapters/2017.6.5.md)
         * [Android安全奖2017(6月1日)](chapters/2017.6.1.md)
     * [5月]()    
