@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2017年]()
     * [6月]()  
+        * [Android Things 开发者预览版4.1(6月15日)](chapters/2017.6.15.md) 
+        * [使用新的定位API减少摩擦(6月14日)](chapters/2017.6.14.md) 
         * [使用新的Google Play订单Library赚钱更加容易(6月12日)](chapters/2017.6.12.md)
         * [Android O API最终版发布，你的app准备好了吗(6月8日)](chapters/2017.6.8.md)
         * [关于Google Play的激励评级，评论和安装政策(6月5日)](chapters/2017.6.5.md)
