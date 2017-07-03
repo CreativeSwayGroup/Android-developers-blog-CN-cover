@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [6月]()  
+        * [Android Things的Hackster社区(6月30日)](chapters/2017.6.30.md)  
         * [Android Things控制台开发者预览(6月28日)](chapters/2017.6.28.md) 
         * [WebView安全新特性(6月22日)](chapters/2017.6.22.md) 
         * [结束Android 2.1和等低版本设备上的Android市场支持(6月20日)](chapters/2017.6.20.md) 
