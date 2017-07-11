@@ -2,6 +2,8 @@
 
 * [简介](README.md)
 * [2017年]()
+    * [7月]()  
+        * [Android的生命力：通过改进的应用程序性能来增加互动和安装(7月10日)](chapters/2017.7.10.md)  
     * [6月]()  
         * [Android Things的Hackster社区(6月30日)](chapters/2017.6.30.md)  
         * [Android Things控制台开发者预览(6月28日)](chapters/2017.6.28.md) 
