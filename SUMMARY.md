@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [7月]()  
+        * [Android测试支持库1.0(7月25日)](chapters/2017.7.25.md) 
         * [开发者预览版4可用啦，官方Android O即将推出(7月24日)](chapters/2017.7.24.md)  
         * [Android O的Seccomp过滤器(7月20日)](chapters/2017.7.20.md)  
         * [关闭HAL(7月18日)](chapters/2017.7.18.md)  
