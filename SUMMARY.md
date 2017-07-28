@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2017年]()
     * [7月]()  
+        * [获取更新的Playbook应用程序的新资讯和技巧，以帮助你在Google Play拓展业务(7月27日)](chapters/2017.7.27.md) 
+        * [从Chrysaor到Lipizzan：阻止一个新的目标间谍软件家族(7月26日)](chapters/2017.7.26.md) 
         * [Android测试支持库1.0(7月25日)](chapters/2017.7.25.md) 
         * [开发者预览版4可用啦，官方Android O即将推出(7月24日)](chapters/2017.7.24.md)  
         * [Android O的Seccomp过滤器(7月20日)](chapters/2017.7.20.md)  
