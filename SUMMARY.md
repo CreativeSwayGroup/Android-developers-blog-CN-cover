@@ -2,7 +2,11 @@
 
 * [简介](README.md)
 * [2017年]()
+    * [8月]()  
+        * [Android Bug与Sanitizers混合(8月2日)](chapters/2017.8.2.md) 
     * [7月]()  
+        * [宣布近场连接2.0：完全离线，高带宽配对设备通信(7月31日)](chapters/2017.7.31.md) 
+        * [Android O中的快捷方式和小部件的新功能(7月28日)](chapters/2017.7.28.md) 
         * [获取更新的Playbook应用程序的新资讯和技巧，以帮助你在Google Play拓展业务(7月27日)](chapters/2017.7.27.md) 
         * [从Chrysaor到Lipizzan：阻止一个新的目标间谍软件家族(7月26日)](chapters/2017.7.26.md) 
         * [Android测试支持库1.0(7月25日)](chapters/2017.7.25.md) 
