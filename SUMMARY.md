@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [8月]()  
+        * [你在Google Play的下一个发展市场：在俄罗斯亮出你的标题(8月7日)](chapters/2017.8.7.md)  
         * [我们如何帮助人们在Google Play上找到优质的应用和游戏(8月3日)](chapters/2017.8.3.md) 
         * [Android Bug与Sanitizers混合(8月2日)](chapters/2017.8.2.md) 
     * [7月]()  
