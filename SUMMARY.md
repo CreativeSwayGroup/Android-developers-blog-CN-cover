@@ -9,7 +9,7 @@
         * [Google Play政策的更新推进独立Android Wear应用程序(8月31日)](chapters/2017.8.31.md)
         * [加强Android Oreo内核(8月30日)](chapters/2017.8.30.md)
         * [ARCore：Android的增强现实(8月29日)](chapters/2017.8.29.md)
-        * [旧金山举行的独立游戏节宣布20名入围者和公放注册(8月28日)](chapters/2017.8.28.md)
+        * [旧金山举行的独立游戏节宣布20名入围者和开放注册(8月28日)](chapters/2017.8.28.md)
         * [如何改善Wear 2.0的应用程序设计(8月25日)](chapters/2017.8.25.md)
         * [了解使用ConstraintLayout的性能优势(8月24日)](chapters/2017.8.24.md)
         * [Start On Android并在Google Play上取得成功并在Google Play上取得成功(8月23日)](chapters/2017.8.23.md)
