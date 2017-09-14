@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [9月]()  
+        * [Google和Ideas联合发起计划，以支持游戏设计中的包容性(反歧视)(9月13日)](chapters/2017.9.13.md) 
         * [帮助独立开发者在Google Play上被发现(9月8日)](chapters/2017.9.8.md) 
         * [介绍Android NDK r16(9月7日)](chapters/2017.9.7.nkd.md)  
         * [优化Chromebook的Android应用(9月7日)](chapters/2017.9.7.chromebook.md)  
