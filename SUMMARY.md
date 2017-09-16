@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [9月]()  
+        *  [Android Things黑客大赛(9月15日)](chapters/2017.9.15.md) 
         * [SafetyNet验证Apps API，Google Play保护在你指尖下的信息(9月14日)](chapters/2017.9.14.md) 
         * [Google和Ideas联合发起计划，以支持游戏设计中的包容性(反歧视)(9月13日)](chapters/2017.9.13.md) 
         * [帮助独立开发者在Google Play上被发现(9月8日)](chapters/2017.9.8.md) 
