@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [9月]()
+        * [密钥认证(9月28日)](chapters/2017.9.28.md)
         * [公告旧金山独立游戏节的获奖者(9月26日)](chapters/2017.9.26.md)
         * [Google Play Billing Library 1.0发布(9月19日)](chapters/2017.9.19.md)
         * [Android Things黑客大赛(9月15日)](chapters/2017.9.15.md)
