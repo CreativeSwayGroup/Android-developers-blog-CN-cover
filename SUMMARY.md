@@ -2,6 +2,11 @@
 
 * [简介](README.md)
 * [2017年]()
+    * [10月]()
+        * [使用多个JobServices(10月5日)](chapters/2017.10.5.md)
+        * [使用Google Assistant在Android TV上进行视频播放(10月4日)](chapters/2017.10.4.md)
+        * [Android Excellence：恭喜2017年秋季的新应用和游戏(10月3日)](chapters/2017.10.3.md)
+        * [Android Wear Beta(10月2日)](chapters/2017.10.2.md)
     * [9月]()
         * [密钥认证(9月28日)](chapters/2017.9.28.md)
         * [公告旧金山独立游戏节的获奖者(9月26日)](chapters/2017.9.26.md)
