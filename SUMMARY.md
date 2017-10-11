@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [10月]()
+        * [Google助手可以帮助控制你的Android媒体应用(10月10日)](chapters/2017.10.10.md)
         * [使用多个JobServices(10月5日)](chapters/2017.10.5.md)
         * [使用Google Assistant在Android TV上进行视频播放(10月4日)](chapters/2017.10.4.md)
         * [Android Excellence：恭喜2017年秋季的新应用和游戏(10月3日)](chapters/2017.10.3.md)
