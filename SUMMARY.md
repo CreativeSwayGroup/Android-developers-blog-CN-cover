@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2017年]()
     * [10月]()
+        * [有效的电话号码验证(10月13日)](chapters/2017.10.13.md)
+        * [简介Android Instant Apps SDK 1.1(10月12日)](chapters/2017.10.12.md)
         * [Google助手可以帮助控制你的Android媒体应用(10月10日)](chapters/2017.10.10.md)
         * [使用多个JobServices(10月5日)](chapters/2017.10.5.md)
         * [使用Google Assistant在Android TV上进行视频播放(10月4日)](chapters/2017.10.4.md)
