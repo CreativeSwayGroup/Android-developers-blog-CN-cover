@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2017年]()
     * [10月]()
+        * [Android 8.1开发者预览(10月25日)](chapters/2017.10.25.sdk.md)
+        * [Android Studio 3.0(10月25日)](chapters/2017.10.25.studio.md)
         * [Playtime 2017：通过新的Play Console功能在Google Play上取得成功并拓展业务(10月19日)](chapters/2017.10.19.googleplay.md)
         * [Google Play独立游戏大赛回到了欧洲。现在加入(10月19日)](chapters/2017.10.19.contest.md)
         * [在Google Play上用你最喜欢的应用和游戏抗战全球的饥饿(10月16日)](chapters/2017.10.16.md)
