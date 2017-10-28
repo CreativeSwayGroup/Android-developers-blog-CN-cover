@@ -3,7 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [10月]()
-        * [Playtime 2017：通过新的Play Console功能在Google Play上取得成功并拓展业务(10月19日)](chapters/2017.10.19.gooleplay.md)
+        * [Playtime 2017：通过新的Play Console功能在Google Play上取得成功并拓展业务(10月19日)](chapters/2017.10.19.googleplay.md)
         * [Google Play独立游戏大赛回到了欧洲。现在加入(10月19日)](chapters/2017.10.19.contest.md)
         * [在Google Play上用你最喜欢的应用和游戏抗战全球的饥饿(10月16日)](chapters/2017.10.16.md)
         * [有效的电话号码验证(10月13日)](chapters/2017.10.13.md)
