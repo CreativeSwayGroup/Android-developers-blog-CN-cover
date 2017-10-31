@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [10月]()
+        * [Google的GNSS(全球导航卫星系统)分析工具(10月30日)](chapters/2017.10.30.md)
         * [Android 8.1开发者预览(10月25日)](chapters/2017.10.25.sdk.md)
         * [Android Studio 3.0(10月25日)](chapters/2017.10.25.studio.md)
         * [Playtime 2017：通过新的Play Console功能在Google Play上取得成功并拓展业务(10月19日)](chapters/2017.10.19.googleplay.md)
