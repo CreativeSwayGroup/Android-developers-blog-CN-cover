@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [10月]()
+        * [宣布快速配对 - Android轻松蓝牙配对(10月31日)](chapters/2017.10.31.md)
         * [Google的GNSS(全球导航卫星系统)分析工具(10月30日)](chapters/2017.10.30.md)
         * [Android 8.1开发者预览(10月25日)](chapters/2017.10.25.sdk.md)
         * [Android Studio 3.0(10月25日)](chapters/2017.10.25.studio.md)
