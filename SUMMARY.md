@@ -2,6 +2,8 @@
 
 * [简介](README.md)
 * [2017年]()
+    * [11月]()
+        * [Android版Kotlin更新(11月2日)](chapters/2017.11.2.md)
     * [10月]()
         * [宣布快速配对 - Android轻松蓝牙配对(10月31日)](chapters/2017.10.31.md)
         * [Google的GNSS(全球导航卫星系统)分析工具(10月30日)](chapters/2017.10.30.md)
