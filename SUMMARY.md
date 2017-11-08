@@ -165,6 +165,8 @@
         *  [在Google Play上更好地被搜索和发现的技巧(12月15日)](chapters/2016.12.15.googleplay.md)
         *  [Android Wear 2.0 中国版 - 开发者预览版(12月13日)](chapters/2016.12.13.wear.china.md)
         *  [Android Wear 2.0开发者预览版4：身份验证，应用内结算等等(12月13日)](chapters/2016.12.13.wear.md)
+        *  [宣布Google的物联网平台更新：Android的Things和Weave(12月13日)](chapters/2016.12.13.things.md)
+        *  [5个步骤实现可持续增长，并提你的应用程序的长期成功(12月12日)](chapters/2016.12.12.md)
 * [2015年]()  
 * [2014年]()  
 * [2013年]()  
