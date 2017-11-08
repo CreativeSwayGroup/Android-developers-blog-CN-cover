@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [11月]()
+        * [Google和Ideas United宣布Infinite Deviation：游戏程序获奖者(11月7日)](chapters/2017.11.7.md)
         * [宣布架构组件1.0稳定版(11月6日)](chapters/2017.11.6.md)
         * [Android版Kotlin更新(11月2日)](chapters/2017.11.2.md)
     * [10月]()
