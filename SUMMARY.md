@@ -51,7 +51,7 @@
         * [使用这些新功能和最佳实践在Google Play上构建订阅业务(8月14日)](chapters/2017.8.14.md) 
         * [现在预览下一代Dex编译器(8月11日)](chapters/2017.8.11.md) 
         * [Android Things 开发者预览版5(8月10日)](chapters/2017.8.10.md) 
-        * [你在Google Play的下一个发展市场：在俄罗斯亮出你的标题(8月7日)](chapters/2017.8.7.md)  o
+        * [你在Google Play的下一个发展市场：在俄罗斯亮出你的标题(8月7日)](chapters/2017.8.7.md)
         * [我们如何帮助人们在Google Play上找到优质的应用和游戏(8月3日)](chapters/2017.8.3.md) 
         * [Android Bug与Sanitizers混合(8月2日)](chapters/2017.8.2.md) 
     * [7月]()  
@@ -173,7 +173,8 @@
         *  [欢迎Android 7.1.1 Nougat(12月5日)](chapters/2016.12.5.md)
         *  [拉丁美洲的独立游戏开发商在Google Play上线后保持增长(12月1日)](chapters/2016.12.1.md)
     * [11月]()
-
+        *  [更新优达学城为学生准备的Associate Android Developer认证Android课程(11月30日)](chapters/2016.11.30.udacity.md)
+        *  [向Memrise学习技巧，通过价格经验来增加应用内购(11月30日)](chapters/2016.11.30.memrise.md)
 * [2015年]()  
 * [2014年]()  
 * [2013年]()  
