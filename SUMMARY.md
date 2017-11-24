@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2017年]()
     * [11月]()
+        * [移除GoogleApiClient(11月21日)](chapters/2017.11.21.md)
+        * [Google Play Referrer Api:跟踪和保证你的app容易和安全地安装(11月20日)](chapters/2017.11.20.md)
         * [Android Things大赛获奖者(11月17日)](chapters/2017.11.17.md)
         * [让你的Android应用程序准备支持Autofill(11月16日)](chapters/2017.11.16.md)
         * [Pixel 2的安全模块如何派生企业级安全性(11月13日)](chapters/2017.11.13.security.md)
