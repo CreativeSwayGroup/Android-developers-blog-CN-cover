@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [11月]()
+        * [我们的新课程：深入Android开发(11月28日)](chapters/2017.11.28.md)
         * [现在可以使用最终版的Android 8.1预览版(11月27日)](chapters/2017.11.27.md)
         * [移除GoogleApiClient(11月21日)](chapters/2017.11.21.md)
         * [Google Play Referrer Api:跟踪和保证你的app容易和安全地安装(11月20日)](chapters/2017.11.20.md)
