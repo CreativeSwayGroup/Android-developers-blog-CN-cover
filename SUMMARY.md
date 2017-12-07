@@ -2,7 +2,11 @@
 
 * [简介](README.md)
 * [2017年]()
+    * [12月]()
+        * [欢迎Android 8.1 Oreo和Android Oreo(Go版)(12月5日)](chapters/2017.12.5.md)
+        * [调整你的应用程序和游戏适配宽屏设备(12月4日)](chapters/2017.12.4.md)
     * [11月]()
+        * [Android Things开发者预览版6(11月29日)](chapters/2017.11.29.md)
         * [我们的新课程：深入Android开发(11月28日)](chapters/2017.11.28.md)
         * [现在可以使用最终版的Android 8.1预览版(11月27日)](chapters/2017.11.27.md)
         * [移除GoogleApiClient(11月21日)](chapters/2017.11.21.md)
