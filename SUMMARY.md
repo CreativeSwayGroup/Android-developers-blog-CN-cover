@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2017年]()
     * [12月]()
+        * [未来几年，Google Play将提高应用安全性和性能(12月19日)](chapters/2017.12.19.md)
+        * [Android模拟器的快速启动和主要功能(12月18日)](chapters/2017.12.18.md)
         * [LoWPAN在Android Things(12月14日)](chapters/2017.12.14.md)
         * [使用GAPID诊断和了解应用程序的GPU行为(12月13日)](chapters/2017.12.13.md)
         * [欢迎Android 8.1 Oreo和Android Oreo(Go版)(12月5日)](chapters/2017.12.5.md)
