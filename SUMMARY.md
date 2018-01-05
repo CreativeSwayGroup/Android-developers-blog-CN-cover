@@ -3,7 +3,7 @@
 * [简介](README.md)
 * [2017年]()
     * [12月]()
-        * [回顾2017年中期阅读最多的Google Play帖子(12月28日)](chapters/2017.12.28.md)
+        * [回顾2017年发布在Medium上阅读最多的Google Play帖子(12月28日)](chapters/2017.12.28.md)
         * [逐步淘汰Android电视上的传统方案(12月22日)](chapters/2017.12.22.md)
         * [Android Oreo中的双重填充安全(12月20日)](chapters/2017.12.20.md)
         * [未来几年，Google Play将提高应用安全性和性能(12月19日)](chapters/2017.12.19.md)
