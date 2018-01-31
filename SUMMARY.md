@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2018年]()
     * [1月]()
+        * [加入我们的GDC 2018 Google开发者日(1月26日)](chapters/2018.1.26.md)
+        * [Android Wear SDK和模拟器更新(1月25日)](chapters/2018.1.25.md)
         * [Android安全生态系统为Pixel投资支付股息(1月17日)](chapters/2018.1.17.md)
         * [与欧洲的Google Play独立游戏大赛决赛参赛者会面(1月15日)](chapters/2018.1.15.md)
         * [更快的更新速度测试订阅(1月12日)](chapters/2018.1.12.md)
