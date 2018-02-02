@@ -2,7 +2,11 @@
 
 * [简介](README.md)
 * [2018年]()
+    * [2月]()
+        * [物联网开发者的故事：Deeplocal(2月1日)](chapters/2018.2.1.md)
     * [1月]()
+        * [Android开发者故事：Big Fish游戏使用公开测试来消除游戏的发布风险(1月31日)](chapters/2018.1.31.md)
+        * [2017年，我们如何应对不良应用和恶意开发者(1月30日)](chapters/2018.1.30.md)
         * [加入我们的GDC 2018 Google开发者日(1月26日)](chapters/2018.1.26.md)
         * [Android Wear SDK和模拟器更新(1月25日)](chapters/2018.1.25.md)
         * [Android安全生态系统为Pixel投资支付股息(1月17日)](chapters/2018.1.17.md)
