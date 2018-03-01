@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [2月]()
+        * [通过减少非SDK接口的使用来提高稳定性(2月28日)](chapters/2018.2.28.md)
         * [连续共享元素转换：RecyclerView变ViewPager(2月20日)](chapters/2018.2.20.md)
         * [更好的跟踪你的Google Play促销活动结算的方式(2月14日)](chapters/2018.2.14.md)
         * [恭喜2017年Google Play欧洲独立游戏大赛获奖者(2月13日)](chapters/2018.2.13.md)
