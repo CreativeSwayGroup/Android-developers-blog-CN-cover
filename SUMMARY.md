@@ -2,6 +2,8 @@
 
 * [简介](README.md)
 * [2018年]()
+    * [3月]()
+        * [Android Things开发者预览版7(3月6日)](chapters/2018.3.6.md)
     * [2月]()
         * [通过减少非SDK接口的使用来提高稳定性(2月28日)](chapters/2018.2.28.md)
         * [连续共享元素转换：RecyclerView变ViewPager(2月20日)](chapters/2018.2.20.md)
