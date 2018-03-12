@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2018年]()
     * [3月]()
+        * [Android P中的加密方式变更(3月8日)](chapters/2018.3.8.md)
+        * [预览Android P(3月7日)](chapters/2018.3.7.md)
         * [Android Things开发者预览版7(3月6日)](chapters/2018.3.6.md)
     * [2月]()
         * [通过减少非SDK接口的使用来提高稳定性(2月28日)](chapters/2018.2.28.md)
