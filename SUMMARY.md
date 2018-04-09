@@ -2,6 +2,9 @@
 
 * [简介](README.md)
 * [2018年]()
+    * [4月]()
+        * [Android Studio切换到D8 dexer(4月6日)](chapters/2018.4.6.md)
+        * [在Google Play上推出新的Android卓越应用和游戏(4月5日)](chapters/2018.4.5.md)
     * [3月]()
         * [Wear OS Google开发者预览版(3月28日)](chapters/2018.3.28.md)
         * [Android Studio 3.1(3月26日)](chapters/2018.3.26.md)
