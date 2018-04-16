@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [4月]()
+        * [Android P开发者预览版支持DNS over TLS(4月13日)](chapters/2018.4.13.md)
         * [该从GCM升级到FCM了(4月11日)](chapters/2018.4.11.md)
         * [Android P中默认使用TLS保护用户(4月10日)](chapters/2018.4.10.md)
         * [Android Studio切换到D8 dexer(4月6日)](chapters/2018.4.6.md)
