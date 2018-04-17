@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [4月]()
+        * [Android Things发布候选(4月16日)](chapters/2018.4.16.md)
         * [Android P开发者预览版支持DNS over TLS(4月13日)](chapters/2018.4.13.md)
         * [该从GCM升级到FCM了(4月11日)](chapters/2018.4.11.md)
         * [Android P中默认使用TLS保护用户(4月10日)](chapters/2018.4.10.md)
