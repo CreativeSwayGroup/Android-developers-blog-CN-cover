@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [4月]()
+        * [祝贺2018年Google Play大奖提名(4月24日)](chapters/2018.4.24.md)
         * [通过安全浏览保护WebView(4月17日)](chapters/2018.4.17.md)
         * [Android Things发布候选(4月16日)](chapters/2018.4.16.md)
         * [Android P开发者预览版支持DNS over TLS(4月13日)](chapters/2018.4.13.md)
