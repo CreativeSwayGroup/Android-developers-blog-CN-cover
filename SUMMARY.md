@@ -2,6 +2,8 @@
 
 * [简介](README.md)
 * [2018年]()
+    * [5月]()
+        * [宣布新的Google Play服务和Firebase SDK版本(5月3日)](chapters/2018.5.3.md)
     * [4月]()
         * [祝贺2018年Google Play大奖提名(4月24日)](chapters/2018.4.24.md)
         * [通过安全浏览保护WebView(4月17日)](chapters/2018.4.17.md)
