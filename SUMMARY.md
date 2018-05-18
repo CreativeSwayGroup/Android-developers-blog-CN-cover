@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [5月]()
+        * [使用Google Pay构建(5月17日)](chapters/2018.5.17.md)
         * [使用Project Treble快速适配项目(5月9日)](chapters/2018.5.9.treble.md)
         * [Google Wear OS：AoG支持和新的增强型电池保护模式(5月9日)](chapters/2018.5.9.wear.md)
         * [Google I / O 2018：Android有什么新功能(5月8日)](chapters/2018.5.8.io.md)
