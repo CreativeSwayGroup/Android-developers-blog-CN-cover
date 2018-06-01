@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [5月]()
+        * [内部攻击阻力(5月31日)](chapters/2018.5.31.md)
         * [Google I / O中的所有（Android）Things(5月25日)](chapters/2018.5.25.md)
         * [通过机器学习保护20亿个Android设备的安全(5月24日)](chapters/2018.5.24.md)
         * [通过新的Kotlin Bootcamp课程快速学习Kotlin(5月21日)](chapters/2018.5.21.md)
