@@ -2,6 +2,8 @@
 
 * [简介](README.md)
 * [2018年]()
+    * [6月]()
+        * [.app开放注册(6月1日)](chapters/2018.6.1.md)
     * [5月]()
         * [内部攻击阻力(5月31日)](chapters/2018.5.31.md)
         * [Google I / O中的所有（Android）Things(5月25日)](chapters/2018.5.25.md)
