@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [6月]()
+        * [Android P Beta 2和最终的API！(6月6日)](chapters/2018.6.6.md)
         * [项目Capillary：简化推送消息的端到端加密(6月5日)](chapters/2018.6.5.md)
         * [.app开放注册(6月1日)](chapters/2018.6.1.md)
     * [5月]()
