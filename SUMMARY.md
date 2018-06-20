@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [6月]()
+        * [Google Play安全元数据和离线应用分发(6月19日)](chapters/2018.6.19.md)
         * [IMakeApps - 庆祝全球应用程序制造商(6月18日)](chapters/2018.6.18.md)
         * [Android P中非SDK限制的更新(6月12日)](chapters/2018.6.12.md)
         * [Wear OS开发者预览版：后台服务的重启闹钟和job(6月11日)](chapters/2018.6.11.md)
