@@ -4,6 +4,7 @@
 * [2018年]()
     * [6月]()
         * [Android Studio 3.2 测试版(6月21日)](chapters/2018.6.21.studio.md)
+        * [Android Things的谷歌云物联网核心客户端库(6月21日)](chapters/2018.6.21.things.md)
         * [Android P中更好的生物识别技术(6月21日)](chapters/2018.6.21.sdk.md)
         * [使用Google Play的新功能发展并优化您的订阅(6月20日)](chapters/2018.6.20.md)
         * [Google Play安全元数据和离线应用分发(6月19日)](chapters/2018.6.19.md)
