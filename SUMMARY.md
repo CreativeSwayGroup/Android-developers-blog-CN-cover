@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [6月]()
+        * [在亚洲推出独立游戏加速器 - 帮助游戏初创公司在Google Play上取得成功(6月26日)](chapters/2018.6.26.md)
         * [Android Studio 3.2 测试版(6月21日)](chapters/2018.6.21.studio.md)
         * [Android Things的谷歌云物联网核心客户端库(6月21日)](chapters/2018.6.21.things.md)
         * [Android P中更好的生物识别技术(6月21日)](chapters/2018.6.21.sdk.md)
