@@ -2,6 +2,8 @@
 
 * [简介](README.md)
 * [2018年]()
+    * [7月]()
+        * [Android P Beta 3现已推出(7月2日)](chapters/2018.7.2.md)
     * [6月]()
         * [改进Play商店中优质应用和游戏的被发现(6月29日)](chapters/2018.6.29.play.md)
         * [新的通用音乐播放器(6月29日)](chapters/2018.6.29.player.md)
