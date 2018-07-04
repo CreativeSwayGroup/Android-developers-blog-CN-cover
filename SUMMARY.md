@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [7月]()
+        * [恭喜Google Play新上的Android Excellence应用和游戏(7月3日)](chapters/2018.7.3.md)
         * [Android P Beta 3现已推出(7月2日)](chapters/2018.7.2.md)
     * [6月]()
         * [改进Play商店中优质应用和游戏的被发现(6月29日)](chapters/2018.6.29.play.md)
