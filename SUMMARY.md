@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [7月]()
+        * [Android模拟器 - AMD处理器和Hyper-V支持(7月9日)](chapters/2018.7.9.md)
         * [Android P中文本的新功能(7月4日)](chapters/2018.7.4.md)
         * [恭喜Google Play新上的Android Excellence应用和游戏(7月3日)](chapters/2018.7.3.md)
         * [Android P Beta 3现已推出(7月2日)](chapters/2018.7.2.md)
