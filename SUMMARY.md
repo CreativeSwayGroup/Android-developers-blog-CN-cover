@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [7月]()
+        * [最终预览版更新,官方Android P即将推出！(7月25日)](chapters/2018.7.25.md)
         * [为现代Android更新你的游戏(7月20日)](chapters/2018.7.20.md)
         * [如何创建Action补充您的Android应用(7月10日)](chapters/2018.7.10.md)
         * [Android模拟器 - AMD处理器和Hyper-V支持(7月9日)](chapters/2018.7.9.md)
