@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [7月]()
+        * [AndroidX开发现在更好了(7月26日)](chapters/2018.7.26.md)
         * [最终预览版更新,官方Android P即将推出！(7月25日)](chapters/2018.7.25.md)
         * [为现代Android更新你的游戏(7月20日)](chapters/2018.7.20.md)
         * [如何创建Action补充您的Android应用(7月10日)](chapters/2018.7.10.md)
