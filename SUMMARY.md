@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [8月]()
+        * [谷歌发布Google I/O 2018的Android源码(8月13日)](chapters/2018.8.13.md)
         * [展望Google Play(8月8日)](chapters/2018.8.8.play.md)
         * [第一届独立游戏孵化器课程(8月8日)](chapters/2018.8.8.class.md)
         * [Android Pie SDK现在更加适合Kotlin(8月7日)](chapters/2018.8.7.md)
