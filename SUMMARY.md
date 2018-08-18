@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [8月]()
+        * [Android TV的替代输入的方式(8月17日)](chapters/2018.8.17.md)
         * [Android助听器的流媒体支持规范(8月16日)](chapters/2018.8.16.md)
         * [更新Wear OS Google Play商店政策以提高应用质量(8月15日)](chapters/2018.8.15.md)
         * [谷歌发布Google I/O 2018的Android源码(8月13日)](chapters/2018.8.13.md)
