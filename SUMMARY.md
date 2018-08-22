@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [8月]()
+        * [简化免安装游戏的开发者体验(8月20日)](chapters/2018.8.20.md)
         * [Android TV的替代输入的方式(8月17日)](chapters/2018.8.17.md)
         * [Android助听器的流媒体支持规范(8月16日)](chapters/2018.8.16.md)
         * [更新Wear OS Google Play商店政策以提高应用质量(8月15日)](chapters/2018.8.15.md)
