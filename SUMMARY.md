@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [8月]()
+        * [在Android上验证您的Google助手多媒体操作集成(8月27日)](chapters/2018.8.27.md)
         * [Google Play控制台上独家新的有效购买洞察(8月24日)](chapters/2018.8.24.md)
         * [Android安全更新的演变(8月22日)](chapters/2018.8.22.md)
         * [简化免安装游戏的开发者体验(8月20日)](chapters/2018.8.20.md)
