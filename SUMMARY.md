@@ -2,6 +2,8 @@
 
 * [简介](README.md)
 * [2018年]()
+    * [10月]()
+        * [超越适用于Android的Kotlin Momentum(10月4日)](chapters/2018.10.4.md)  
     * [9月]()
         * [Android Studio 3.2(9月24日)](chapters/2018.9.24.md)  
         * [Android和Google Play安全奖励计划的支出超过3百万美元(9月20日)](chapters/2018.9.20.md)  
