@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2018年]()
     * [10月]()
+        * [Android内核中的控制流完整性(10月10日)](chapters/2018.10.10.md)  
+        * [为我们的用户提供安全可靠的体验(10月8日)](chapters/2018.10.8.md)  
         * [超越适用于Android的Kotlin Momentum(10月4日)](chapters/2018.10.4.md)  
     * [9月]()
         * [Android Studio 3.2(9月24日)](chapters/2018.9.24.md)  
