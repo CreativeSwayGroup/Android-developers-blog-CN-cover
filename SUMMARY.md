@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [10月]()
+        * [停止对Android近场通知的支持(10月25日)](chapters/2018.10.25.md)  
         * [针对Android开发者的免费培训 - 了解如何在Google Play上取得成功(10月24日)](chapters/2018.10.24.md)  
         * [Google Play离线点对点安装测试版(10月19日)](chapters/2018.10.19.play.md)  
         * [Android Protected Confirmation：将事务安全性提升到新的水平(10月19日)](chapters/2018.10.19.security.md)  
