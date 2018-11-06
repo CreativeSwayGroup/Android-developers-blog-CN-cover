@@ -2,6 +2,8 @@
 
 * [简介](README.md)
 * [2018年]()
+    * [11月]()
+        * [R8是谷歌的新代码缩小器，可在Android studio 3.3 beta中使用(11月5日)](chapters/2018.11.5.md)
     * [10月]()
         * [Android Dev Summit应用程序正式可用！为11月7-8日做好准备(10月31日)](chapters/2018.10.31.md)
         * [停止对Android近场通知的支持(10月25日)](chapters/2018.10.25.md)  
