@@ -3,6 +3,8 @@
 * [简介](README.md)
 * [2018年]()
     * [11月]()
+        * [Project Treble更新(11月14日)](chapters/2018.11.14.md)
+        * [将你的app适配可折叠手机(11月9日)](chapters/2018.11.9.md)
         * [AndroidDevSummit现在正在开始！(11月7日)](chapters/2018.11.7.md)
         * [R8是谷歌的新代码缩小器，可在Android studio 3.3 beta中使用(11月5日)](chapters/2018.11.5.md)
     * [10月]()
