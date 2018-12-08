@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [12月]()
+        * [Google Play服务停止对SDK API级别14和15的更新(12月6日)](chapters/2018.12.6.md)
         * [改进Android Auto的媒体和消息应用程序集成(12月5日)](chapters/2018.12.5.md)
         * [Android codelab课程在这里！(12月4日)](chapters/2018.12.4.md)
         * [祝贺2018年最佳应用和游戏背后的开发者(12月3日)](chapters/2018.12.3.md)
