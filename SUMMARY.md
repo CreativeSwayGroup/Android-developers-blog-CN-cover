@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [2018年]()
     * [12月]()
+        * [Android Pie安全和隐私的模式(12月20日)](chapters/2018.12.20.md)
         * [总结Google Play和Android的2018年(12月18日)](chapters/2018.12.18.md)
         * [在我们相信的评论中 - 让Google Play评分和评论更值得信赖(12月17日)](chapters/2018.12.17.md)
         * [开放更多Android开源项目(12月14日)](chapters/2018.12.14.md)
