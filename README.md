@@ -5,4 +5,7 @@
 ## 年份目录
 
 * [2019](https://github.com/CreativeSwayGroup/Android-developers-blog-CN-2019)
+* [2018](https://github.com/CreativeSwayGroup/Android-developers-blog-CN-2018)
+* [2017](https://github.com/CreativeSwayGroup/Android-developers-blog-CN-2017)
+* [2016](https://github.com/CreativeSwayGroup/Android-developers-blog-CN-2016)
 * 其他年份 [开始阅读](SUMMARY.md)
